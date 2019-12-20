@@ -18,5 +18,5 @@ el crecimiento incremental del estudiante rumbo a una carrera independiente i ex
           <h3>Guapo</h3>
         </header>
       </div>
-  <audio src="son/bbno$ - slop prod. Y2K.mp3" autostart=true true controls preload></audio>
+  <audio src="son/bbno$ - slop prod. Y2K.mp3" controls preload></audio>
 
