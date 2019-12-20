@@ -10,3 +10,12 @@ el crecimiento incremental del estudiante rumbo a una carrera independiente i ex
 <footer>
   <a href="/hernandez2299.github.io/blog.html" class="button scrolly">Siguiente</a>
 </footer>
+
+<div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/dead1.jpg' | relative_url }}" alt="Guapo" /></a>
+        <header>
+          <h3>Guapo</h3>
+        </header>
+      </div>
