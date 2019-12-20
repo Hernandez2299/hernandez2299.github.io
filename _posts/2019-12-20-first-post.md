@@ -1,6 +1,6 @@
 ---
 title: Fundamentos a la I.S.
-layout: post
+layout: page
 ---
 <div class="row">
       <div class="item">
