@@ -15,7 +15,7 @@ La Ingeniería del Software es el establecimiento y uso de principios robustos d
 
 
 Bohem (1976)
-Ingeniería del Software es la aplicación practica del conocimiento científico en el diseño y construcción de programas de computadora y la documentación necesaria requerida para desarrollar, operar (funcionar) y mantenerlos.
+Ingeniería del Software es la aplicación practica del conocimiento científico en el diseño y construcción de programas de computadora y la documentación necesaria requerida para desarrollar, operar (funcionar) y mantenerlos. ​
 
-Mills (1980)
-La Ingeniería de Software tiene como uno de sus principales objetivos la producción de programas que cumplan las especificaciones, y que se demuestren correctos, producidos en el plazo y costo adecuado​
+ Mills (1980)
+ La Ingeniería de Software tiene como uno de sus principales objetivos la producción de programas que cumplan las especificaciones, y que   se demuestren correctos, producidos en el plazo y costo adecuado​
