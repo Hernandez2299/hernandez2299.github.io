@@ -1,5 +1,5 @@
 ---
-title: Fundamentos a la Ingeniería de Software (IS)
+title: Fundamentos a la I.S.
 layout: page
 ---
 Fritz Bauer(1969)
