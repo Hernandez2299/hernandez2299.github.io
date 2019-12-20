@@ -7,4 +7,6 @@ Introducciónn a software es un materia compleja, ya que en sumayoríao son conc
 aunque sus ejemplosprácticoss, usos comerciales y laborales, y un sin numero de aplicaciones colectiva lo hacen necesario para 
 el crecimiento incremental del estudiante rumbo a una carrera independiente i exitosa. 
 
-
+<footer>
+  <a href="/hernandez2299.github.io/blog.html" class="button scrolly">Siguiente</a>
+</footer>
