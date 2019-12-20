@@ -1,5 +1,6 @@
 ---
-title: Lista de cosas que le gustan al creador 
+title: Lista de cosas que 
+le gustan al creador 
 subtitle: osea yo
 layout: "page"
 icon: fa-book
