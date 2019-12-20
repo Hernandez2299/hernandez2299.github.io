@@ -4,6 +4,9 @@ icon: fa-check
 order: 2 
 audio_file: son/bbno$ - slop prod. Y2K.mp3
 ---
+<audio src="son/bbno$ - slop prod. Y2K.mp3" controls preload></audio> <- <strong>INICIALO<strong>
+  
+  
 Introducciónn a software es un materia compleja, ya que en sumayoríao son conceptos que se aplican alámbitooprofesionall
 aunque sus ejemplosprácticoss, usos comerciales y laborales, y un sin numero de aplicaciones colectiva lo hacen necesario para 
 el crecimiento incremental del estudiante rumbo a una carrera independiente i exitosa. 
@@ -19,5 +22,5 @@ el crecimiento incremental del estudiante rumbo a una carrera independiente i ex
           <h3>Guapo</h3>
         </header>
       </div>
-  <audio src="son/bbno$ - slop prod. Y2K.mp3" controls preload></audio>
+  
 
