@@ -1,6 +1,5 @@
 ---
 title: Fundamentos a la Ingeniería de Software (IS)
-subtitle:Definición de IS
 layout: post
 ---
 Fritz Bauer(1969)
