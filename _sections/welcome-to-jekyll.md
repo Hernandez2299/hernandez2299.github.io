@@ -4,7 +4,7 @@ icon: fa-check
 order: 2 
 audio_file: son/bbno$ - slop prod. Y2K.mp3
 ---
-<audio src="son/bbno$ - slop prod. Y2K.mp3" controls preload></audio> <- <strong>INICIALO<strong>
+
   
   
 Introducciónn a software es un materia compleja, ya que en sumayoríao son conceptos que se aplican alámbitooprofesionall
