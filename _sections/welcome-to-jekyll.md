@@ -12,7 +12,6 @@ el crecimiento incremental del estudiante rumbo a una carrera independiente i ex
 </footer>
 
 <div class="row">
-    <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/dead1.jpg' | relative_url }}" alt="Guapo" /></a>
         <header>
