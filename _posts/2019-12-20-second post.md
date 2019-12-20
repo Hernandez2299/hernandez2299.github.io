@@ -13,7 +13,6 @@ La ingeniería de software es una aplicación práctica del conocimiento cientí
 -Computar los costos de un proyecto y evaluar los tiempos de desarrollo.  
 -Realizar el seguimiento de costes y plazos.  
 -Liderar equipos de trabajo de desarrollo software.  
-
 -Estructurar la elaboración de evidencias que comprueben el perfecto funcionamiento de los programas y que se adaptan a los requerimientos de análisis y diseño.  
 -Diseñar, construir y administrar bases de datos. 
 -Liderar y orientar a los programadores durante el desarrollo de aplicaciones.  
