@@ -3,7 +3,6 @@ title: Fundamentos a la I.S.
 layout: page
 ---
 <div class="row">
-    <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/Fritz Bauer.jpg' | relative_url }}"  /></a>
      </div>       
