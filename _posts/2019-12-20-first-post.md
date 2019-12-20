@@ -1,6 +1,6 @@
 ---
 title: Fundamentos a la Ingeniería de Software (IS)
-layout: post
+layout: page
 ---
 Fritz Bauer(1969)
 Más que una disciplina o una parte del conocimiento, la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema. ​
